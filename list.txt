@@ -1,0 +1,5 @@
+
+moj.evio.si##div.col-4 > .ng-scope.row > .col-12 > .ng-scope.d-flex.card-clickable.waves-effect.pull-up.card > div > .justify-content-center.p-20.d-flex.card-primary.card-inverse
+moj.evio.si##div.col-4 > .ng-scope.row > .col-12 > .ng-scope.d-flex.card-clickable.pull-up.card > div > .justify-content-center.p-20.d-flex.card-primary.card-inverse
+moj.evio.si##.col-12 > div.ng-scope.row > .col-12 > .ng-scope.d-flex.card-clickable.waves-effect.pull-up.card > div > .justify-content-center.p-20.d-flex.card-primary.card-inverse
+moj.evio.si##.col-12 > div.ng-scope.row > .col-12 > .ng-scope.d-flex.card-clickable.pull-up.card > div > .justify-content-center.p-20.d-flex.card-primary.card-inverse
